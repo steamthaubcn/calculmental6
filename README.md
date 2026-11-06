@@ -1,6 +1,6 @@
-# Càlcul mental de 6è
+# Matemàtiques de 6è
 
-Recurs interactiu per practicar els nombres quadrats (fins al 30²), els cúbics (fins al 10³), els nombres primers fins al 100 i els criteris de divisibilitat. Pensat per a alumnat de sisè de primària.
+Recurs interactiu per practicar els nombres quadrats (fins al 30²), els cúbics (fins al 10³), els nombres primers fins al 100, els criteris de divisibilitat i els angles. Pensat per a alumnat de sisè de primària.
 
 - Funciona en ordinador i iPad, amb ratolí, teclat o pantalla tàctil.
 - No demana comptes ni recull cap dada. No es connecta a cap servei extern.
